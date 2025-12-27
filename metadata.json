@@ -1,0 +1,7 @@
+{
+  "name": "BarPOS Pro - Gestión Online",
+  "description": "Sistema integral de punto de venta y gestión de inventario para bares. Soporta ventas por unidad y ml, gestión de caja y reportes en tiempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

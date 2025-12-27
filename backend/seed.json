@@ -1,0 +1,18 @@
+[
+  { "name": "Club Colombia Rubia 330ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 3500, "priceUnit": 6500, "stockUnits": 48, "minStockUnits": 12 },
+  { "name": "Club Colombia Negra 330ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 3600, "priceUnit": 6800, "stockUnits": 24, "minStockUnits": 12 },
+  { "name": "Corona Extra 355ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 5500, "priceUnit": 9500, "stockUnits": 24, "minStockUnits": 6 },
+  { "name": "Heineken 330ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 4800, "priceUnit": 8500, "stockUnits": 24, "minStockUnits": 6 },
+  { "name": "Budweiser 330ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 3200, "priceUnit": 6000, "stockUnits": 36, "minStockUnits": 12 },
+  { "name": "Cerveza Águila 330ml", "category": "Cervezas", "unitMode": "UNIT", "costUnit": 3500, "priceUnit": 6000, "stockUnits": 48, "minStockUnits": 12 },
+  { "name": "Aguardiente Antioqueño (Shot)", "category": "Licores", "unitMode": "ML", "costPerMl": 100, "pricePerMl": 350, "stockMl": 1500, "minStockMl": 500 },
+  { "name": "Ron Viejo de Caldas (Shot)", "category": "Licores", "unitMode": "ML", "costPerMl": 120, "pricePerMl": 400, "stockMl": 1500, "minStockMl": 500 },
+  { "name": "Jack Daniels No. 7", "category": "Licores", "unitMode": "BOTH", "costUnit": 150000, "priceUnit": 220000, "costPerMl": 200, "pricePerMl": 800, "stockUnits": 5, "stockMl": 3750, "minStockUnits": 1, "minStockMl": 750 },
+  { "name": "Margarita Clásica", "category": "Cocteles", "unitMode": "UNIT", "costUnit": 8500, "priceUnit": 24000, "stockUnits": 1000, "minStockUnits": 0 },
+  { "name": "Mojito Cubano", "category": "Cocteles", "unitMode": "UNIT", "costUnit": 7500, "priceUnit": 22000, "stockUnits": 1000, "minStockUnits": 0 },
+  { "name": "Coca-Cola Original 300ml", "category": "Bebidas", "unitMode": "UNIT", "costUnit": 1800, "priceUnit": 3500, "stockUnits": 24, "minStockUnits": 6 },
+  { "name": "Agua Manantial 500ml", "category": "Bebidas", "unitMode": "UNIT", "costUnit": 1200, "priceUnit": 3000, "stockUnits": 24, "minStockUnits": 6 },
+  { "name": "Papas Margarita Pollo", "category": "Snacks", "unitMode": "UNIT", "costUnit": 1300, "priceUnit": 3000, "stockUnits": 20, "minStockUnits": 5 },
+  { "name": "Maní La Especial", "category": "Snacks", "unitMode": "UNIT", "costUnit": 1000, "priceUnit": 2500, "stockUnits": 20, "minStockUnits": 5 },
+  { "name": "Nachos con Queso", "category": "Snacks", "unitMode": "UNIT", "costUnit": 4500, "priceUnit": 12000, "stockUnits": 15, "minStockUnits": 5 }
+]
